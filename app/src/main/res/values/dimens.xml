@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">105dp</dimen>
+    <dimen name="activity_vertical_margin">80dp</dimen>
+    <dimen name="tamanioTitulo">30sp</dimen>
+    <dimen name="marginCuento">50dp</dimen>
+    <dimen name="marginHorizontal">100dp</dimen>
+    <dimen name="imagen">200dp</dimen>
+
+</resources>
